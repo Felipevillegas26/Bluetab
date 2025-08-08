@@ -43,11 +43,8 @@ if __name__ == "__main__":
     analizador = AnalizadorClientes(df_clientes)
 
 
-<<<<<<< HEAD
     #Hola luis
-=======
     #Hola como estas?
->>>>>>> 9fb6b630fea7faff883efe4a57e29f160905f24c
 
 
     # Ejemplo de uso de métodos
