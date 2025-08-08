@@ -42,6 +42,10 @@ if __name__ == "__main__":
 
     analizador = AnalizadorClientes(df_clientes)
 
+
+    #Hola
+
+
     # Ejemplo de uso de métodos
     mayores = analizador.clientes_mayores_de_edad()
     mayores.show()
